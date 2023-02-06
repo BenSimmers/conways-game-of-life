@@ -1,8 +1,7 @@
 [package]
-name = "game-of-life"
+name = "conways-game-of-life"
 version = "0.1.0"
-authors = ["Dominik Moritz <domoritz@gmail.com>"]
-license = "MIT"
+authors = ["Ben Simmers"]
 readme = "Readme.md"
 
 [dependencies]
